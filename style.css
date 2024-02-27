@@ -1,0 +1,146 @@
+body {
+  color: white !important;
+}
+
+.custom-body {
+  background-color: #1d1d1d;
+}
+.background-image {
+  width: 96%;
+  object-fit: cover;
+  height: 98%;
+  position: absolute;
+  border-radius: 10px;
+  background-color: grey;
+  z-index: -1;
+}
+
+.main-logo {
+  height: 25px;
+}
+
+.main-text h6 {
+  color: rgb(152, 192, 130);
+  font-family: "DM Sans", monospace;
+  font-weight: bold;
+}
+.main-text h2 {
+  font-family: "Space Mono", monospace;
+  font-weight: bold;
+}
+p {
+  font-family: "DM Sans", monospace;
+  text-align: center;
+}
+
+.main-section {
+  margin: 2%;
+}
+
+.main-text {
+  height: 70%;
+}
+
+.learn-more-btn {
+  background-color: white;
+  color: black;
+  border-radius: 50px;
+  padding: 10px 15px;
+  margin-top: 50px;
+}
+.mouse-image-container {
+  margin-top: 30px;
+  text-align: center;
+}
+
+.contact-us-btn {
+  background-color: rgb(152, 192, 130);
+  color: black;
+  border-radius: 50px;
+  padding: 15px 20px;
+}
+.second-section {
+  margin-top: 90px;
+}
+.second-page {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.second-section h2 {
+  font-weight: bold;
+  text-align: center;
+  font-family: "Space Mono", monospace;
+}
+.box {
+  border: 1px solid rgb(152, 192, 130);
+  padding: 30px;
+  border-radius: 10px;
+  margin-top: 30px;
+  background: linear-gradient(90deg, #1f1f1f, #1a1a1a);
+}
+.second-page,
+.box h4 {
+  font-weight: bold;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.second-page,
+.box p {
+  text-align: center;
+}
+
+.theory-third-page {
+  text-align: left;
+  margin-top: 70px;
+}
+
+.third-section {
+  margin-top: 50px;
+  display: grid;
+  grid-template-columns: 45% 45%;
+  justify-content: center;
+}
+
+
+
+.left-side {
+  text-align: start;
+}
+
+.right-side img{
+  width:100%;
+
+}
+
+.fourth-image img{
+ width:80%;
+ margin:5% 10%;
+}
+
+.third-section,
+.theory-third-page h2 {
+  font-weight: bold;
+}
+
+.theory-third-page h6 {
+  color: rgb(152, 192, 130);
+}
+
+.fourth-section h4 {
+  text-align: center;
+  font-family: "Space Mono", monospace;
+  font-weight: bold;
+  margin-top: 70px;
+}
+
+.theory-third-page p {
+  text-align: left;
+}
+
+.image-third-page img {
+  width: 100%;
+}
+
